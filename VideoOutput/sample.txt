@@ -1,0 +1,6 @@
+pandas
+moviepy
+certifi
+deepgram-sdk
+Pillow
+numpy
