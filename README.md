@@ -13,5 +13,6 @@ To run:
 
 1. pip install -r requirements.txt
 
+2. Install Image Magick from: https://imagemagick.org/script/download.php#google_vignette
    
 3. python main.py
